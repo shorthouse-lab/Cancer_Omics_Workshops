@@ -1,0 +1,439 @@
+PATIENT_ID	SAMPLE_ID	CANCER_TYPE_DETAILED	SAMPLE_TYPE	TISSUE_SOURCE_SITE_CODE	TISSUE_SOURCE_SITE	MSI_SCORE_MANTIS	MSI_SENSOR_SCORE	TMB_NONSYNONYMOUS
+TCGA-3L-AA1B	TCGA-3L-AA1B-01	Colon Adenocarcinoma	Primary	3L	Indivumed	0.3057	0.05	4.033333333
+TCGA-4N-A93T	TCGA-4N-A93T-01	Colon Adenocarcinoma	Primary	4N	Indivumed	0.3317	0.69	2.9
+TCGA-4T-AA8H	TCGA-4T-AA8H-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	4T	Indivumed	0.3144	0.17	4.0
+TCGA-5M-AAT4	TCGA-5M-AAT4-01	Colon Adenocarcinoma	Primary	5M	Indivumed	0.3232	0.55	5.833333333
+TCGA-5M-AAT6	TCGA-5M-AAT6-01	Colon Adenocarcinoma	Primary	5M	Indivumed	0.66	20.58	62.16666667
+TCGA-5M-AATE	TCGA-5M-AATE-01	Colon Adenocarcinoma	Primary	5M	Indivumed	0.3252	0.47	3.8
+TCGA-A6-2671	TCGA-A6-2671-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.35	0.37	4.066666667
+TCGA-A6-2672	TCGA-A6-2672-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.9618	31.87	
+TCGA-A6-2674	TCGA-A6-2674-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	A6	Indivumed	0.4577	0.02	7.666666667
+TCGA-A6-2675	TCGA-A6-2675-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.363	0.05	5.833333333
+TCGA-A6-2676	TCGA-A6-2676-01	Colon Adenocarcinoma	Primary	A6	Indivumed		17.34	
+TCGA-A6-2677	TCGA-A6-2677-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.319	0.0	7.766666667
+TCGA-A6-2678	TCGA-A6-2678-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.36	0.64	1.733333333
+TCGA-A6-2679	TCGA-A6-2679-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3403	0.19	
+TCGA-A6-2680	TCGA-A6-2680-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3468		
+TCGA-A6-2681	TCGA-A6-2681-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3456	0.13	8.666666667
+TCGA-A6-2682	TCGA-A6-2682-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3444		
+TCGA-A6-2683	TCGA-A6-2683-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3644	1.46	2.133333333
+TCGA-A6-2684	TCGA-A6-2684-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.4665	14.49	6.566666667
+TCGA-A6-2685	TCGA-A6-2685-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3571	0.0	2.966666667
+TCGA-A6-2686	TCGA-A6-2686-01	Colon Adenocarcinoma	Primary	A6	Indivumed	1.2375	41.35	135.7666667
+TCGA-A6-3807	TCGA-A6-3807-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.4215	1.24	3.0
+TCGA-A6-3808	TCGA-A6-3808-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.406	0.62	4.8
+TCGA-A6-3809	TCGA-A6-3809-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	A6	Indivumed	0.9595	36.48	39.1
+TCGA-A6-3810	TCGA-A6-3810-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3137	1.08	5.533333333
+TCGA-A6-4105	TCGA-A6-4105-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3528	0.3	4.866666667
+TCGA-A6-4107	TCGA-A6-4107-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3809	0.01	11.13333333
+TCGA-A6-5656	TCGA-A6-5656-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3197	15.42	3.6
+TCGA-A6-5657	TCGA-A6-5657-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3201	0.13	6.633333333
+TCGA-A6-5659	TCGA-A6-5659-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.4614	1.0	13.5
+TCGA-A6-5660	TCGA-A6-5660-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3322	0.73	7.533333333
+TCGA-A6-5661	TCGA-A6-5661-01	Colon Adenocarcinoma	Primary	A6	Indivumed		33.38	81.33333333
+TCGA-A6-5662	TCGA-A6-5662-01	Colon Adenocarcinoma	Primary	A6	Indivumed		1.0	4.2
+TCGA-A6-5664	TCGA-A6-5664-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.4019	0.0	2.066666667
+TCGA-A6-5665	TCGA-A6-5665-01	Colon Adenocarcinoma	Primary	A6	Indivumed	1.1824	46.78	117.7666667
+TCGA-A6-5666	TCGA-A6-5666-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3139	1.0	5.933333333
+TCGA-A6-5667	TCGA-A6-5667-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3604	1.11	3.766666667
+TCGA-A6-6137	TCGA-A6-6137-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3386	0.08	3.733333333
+TCGA-A6-6138	TCGA-A6-6138-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3495	0.22	3.333333333
+TCGA-A6-6140	TCGA-A6-6140-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3659		
+TCGA-A6-6141	TCGA-A6-6141-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3495	0.01	
+TCGA-A6-6142	TCGA-A6-6142-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3596	0.07	2.633333333
+TCGA-A6-6648	TCGA-A6-6648-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3926	0.52	2.966666667
+TCGA-A6-6649	TCGA-A6-6649-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.4012	0.19	3.966666667
+TCGA-A6-6650	TCGA-A6-6650-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.466	2.26	0.0
+TCGA-A6-6651	TCGA-A6-6651-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3785	0.08	2.8
+TCGA-A6-6652	TCGA-A6-6652-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3866	0.3	2.533333333
+TCGA-A6-6653	TCGA-A6-6653-01	Colon Adenocarcinoma	Primary	A6	Indivumed	1.0708	33.02	35.63333333
+TCGA-A6-6654	TCGA-A6-6654-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3351	0.07	5.666666667
+TCGA-A6-6780	TCGA-A6-6780-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	A6	Indivumed	1.1071	37.25	39.43333333
+TCGA-A6-6781	TCGA-A6-6781-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	A6	Indivumed	0.771	25.58	64.2
+TCGA-A6-6782	TCGA-A6-6782-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3922	0.0	4.133333333
+TCGA-A6-A565	TCGA-A6-A565-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	A6	Indivumed	0.3972	0.41	12.2
+TCGA-A6-A566	TCGA-A6-A566-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	A6	Indivumed	0.2956	0.0	5.133333333
+TCGA-A6-A567	TCGA-A6-A567-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.2929	0.07	1.7
+TCGA-A6-A56B	TCGA-A6-A56B-01	Colon Adenocarcinoma	Primary	A6	Indivumed	0.3073	0.22	2.8
+TCGA-A6-A5ZU	TCGA-A6-A5ZU-01	Colon Adenocarcinoma	Primary	A6	Indivumed		2.59	
+TCGA-AA-3488	TCGA-AA-3488-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3711		
+TCGA-AA-3489	TCGA-AA-3489-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3996	0.0	3.7
+TCGA-AA-3492	TCGA-AA-3492-01	Colon Adenocarcinoma	Primary	AA	Indivumed	1.2602	35.82	67.43333333
+TCGA-AA-3494	TCGA-AA-3494-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3581		
+TCGA-AA-3495	TCGA-AA-3495-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3588		
+TCGA-AA-3496	TCGA-AA-3496-01	Colon Adenocarcinoma	Primary	AA	International Genomics Consortium	0.4517	0.4	4.9
+TCGA-AA-3502	TCGA-AA-3502-01	Colon Adenocarcinoma	Primary	AA	International Genomics Consortium	0.3387	0.19	5.666666667
+TCGA-AA-3506	TCGA-AA-3506-01	Colon Adenocarcinoma	Primary	AA	International Genomics Consortium	0.3453	0.03	4.6
+TCGA-AA-3510	TCGA-AA-3510-01	Colon Adenocarcinoma	Primary	AA	International Genomics Consortium	0.341	0.0	102.9333333
+TCGA-AA-3511	TCGA-AA-3511-01	Colon Adenocarcinoma	Primary	AA	International Genomics Consortium	0.391	0.06	4.033333333
+TCGA-AA-3514	TCGA-AA-3514-01	Colon Adenocarcinoma	Primary	AA	International Genomics Consortium	0.3123	1.1	1.933333333
+TCGA-AA-3517	TCGA-AA-3517-01	Colon Adenocarcinoma	Primary	AA	International Genomics Consortium	0.3204	0.26	0.733333333
+TCGA-AA-3518	TCGA-AA-3518-01	Colon Adenocarcinoma	Primary	AA	International Genomics Consortium		4.34	
+TCGA-AA-3519	TCGA-AA-3519-01	Colon Adenocarcinoma	Primary	AA	International Genomics Consortium	0.3647	0.69	1.333333333
+TCGA-AA-3520	TCGA-AA-3520-01	Colon Adenocarcinoma	Primary	AA	International Genomics Consortium	0.3835	1.72	0.666666667
+TCGA-AA-3521	TCGA-AA-3521-01	Colon Adenocarcinoma	Primary	AA	International Genomics Consortium	0.3496	2.03	0.566666667
+TCGA-AA-3522	TCGA-AA-3522-01	Colon Adenocarcinoma	Primary	AA	International Genomics Consortium	0.3234	0.05	1.033333333
+TCGA-AA-3524	TCGA-AA-3524-01	Colon Adenocarcinoma	Primary	AA	International Genomics Consortium	0.3154	0.1	0.6
+TCGA-AA-3525	TCGA-AA-3525-01	Colon Adenocarcinoma	Primary	AA	Christiana Healthcare		11.72	
+TCGA-AA-3526	TCGA-AA-3526-01	Colon Adenocarcinoma	Primary	AA	Christiana Healthcare	0.3851	1.33	0.833333333
+TCGA-AA-3527	TCGA-AA-3527-01	Colon Adenocarcinoma	Primary	AA	Christiana Healthcare	0.3161	2.03	1.4
+TCGA-AA-3529	TCGA-AA-3529-01	Colon Adenocarcinoma	Primary	AA	Christiana Healthcare	0.4301	0.66	0.333333333
+TCGA-AA-3530	TCGA-AA-3530-01	Colon Adenocarcinoma	Primary	AA	Christiana Healthcare	0.3164	0.4	2.866666667
+TCGA-AA-3531	TCGA-AA-3531-01	Colon Adenocarcinoma	Primary	AA	Christiana Healthcare	0.3268	0.86	1.166666667
+TCGA-AA-3532	TCGA-AA-3532-01	Colon Adenocarcinoma	Primary	AA	Christiana Healthcare	0.3244	1.6	0.7
+TCGA-AA-3534	TCGA-AA-3534-01	Colon Adenocarcinoma	Primary	AA	Christiana Healthcare	0.3252	0.16	0.666666667
+TCGA-AA-3538	TCGA-AA-3538-01	Colon Adenocarcinoma	Primary	AA	Christiana Healthcare	0.3368	0.0	0.5
+TCGA-AA-3542	TCGA-AA-3542-01	Colon Adenocarcinoma	Primary	AA	Christiana Healthcare		0.0	
+TCGA-AA-3543	TCGA-AA-3543-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	AA	Christiana Healthcare		4.56	
+TCGA-AA-3544	TCGA-AA-3544-01	Colon Adenocarcinoma	Primary	AA	Christiana Healthcare	0.3291	0.0	0.633333333
+TCGA-AA-3548	TCGA-AA-3548-01	Colon Adenocarcinoma	Primary	AA	Christiana Healthcare	0.3218	0.04	0.6
+TCGA-AA-3549	TCGA-AA-3549-01	Colon Adenocarcinoma	Primary	AA	Christiana Healthcare	0.2966	0.0	0.6
+TCGA-AA-3552	TCGA-AA-3552-01	Colon Adenocarcinoma	Primary	AA	Christiana Healthcare		0.04	
+TCGA-AA-3553	TCGA-AA-3553-01	Colon Adenocarcinoma	Primary	AA	Christiana Healthcare		0.0	
+TCGA-AA-3555	TCGA-AA-3555-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	AA	Indivumed		0.05	
+TCGA-AA-3560	TCGA-AA-3560-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3648	0.03	0.633333333
+TCGA-AA-3561	TCGA-AA-3561-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3413	0.27	0.566666667
+TCGA-AA-3655	TCGA-AA-3655-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3473	0.2	2.566666667
+TCGA-AA-3660	TCGA-AA-3660-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3366	0.3	4.366666667
+TCGA-AA-3663	TCGA-AA-3663-01	Colon Adenocarcinoma	Primary	AA	Indivumed	1.2565	41.51	64.86666667
+TCGA-AA-3664	TCGA-AA-3664-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.2631	0.79	4.833333333
+TCGA-AA-3666	TCGA-AA-3666-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.2807	1.17	5.666666667
+TCGA-AA-3667	TCGA-AA-3667-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.2649	0.71	2.366666667
+TCGA-AA-3673	TCGA-AA-3673-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.284	0.51	2.366666667
+TCGA-AA-3675	TCGA-AA-3675-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.2618	0.31	2.566666667
+TCGA-AA-3678	TCGA-AA-3678-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.2741	0.65	2.2
+TCGA-AA-3679	TCGA-AA-3679-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.2575	0.41	2.033333333
+TCGA-AA-3680	TCGA-AA-3680-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.2615	0.33	3.5
+TCGA-AA-3681	TCGA-AA-3681-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.263	0.52	3.366666667
+TCGA-AA-3684	TCGA-AA-3684-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	AA	Indivumed	0.2513	0.09	4.3
+TCGA-AA-3685	TCGA-AA-3685-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.2703	0.49	2.766666667
+TCGA-AA-3688	TCGA-AA-3688-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3017	1.27	2.133333333
+TCGA-AA-3692	TCGA-AA-3692-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	AA	Indivumed	0.2721	0.31	2.233333333
+TCGA-AA-3693	TCGA-AA-3693-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.2829	1.09	4.433333333
+TCGA-AA-3695	TCGA-AA-3695-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.2817	0.65	4.9
+TCGA-AA-3696	TCGA-AA-3696-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.2665	0.4	2.7
+TCGA-AA-3710	TCGA-AA-3710-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.8652	31.62	
+TCGA-AA-3712	TCGA-AA-3712-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3407	0.53	3.833333333
+TCGA-AA-3713	TCGA-AA-3713-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.8168	26.26	34.0
+TCGA-AA-3715	TCGA-AA-3715-01	Colon Adenocarcinoma	Primary	AA	Indivumed	1.092	44.26	70.83333333
+TCGA-AA-3811	TCGA-AA-3811-01	Colon Adenocarcinoma	Primary	AA	Indivumed	1.1337	38.84	64.1
+TCGA-AA-3812	TCGA-AA-3812-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.2659	0.18	3.6
+TCGA-AA-3814	TCGA-AA-3814-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.2754	0.35	3.033333333
+TCGA-AA-3818	TCGA-AA-3818-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.268	0.57	4.6
+TCGA-AA-3819	TCGA-AA-3819-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.261	0.25	6.033333333
+TCGA-AA-3821	TCGA-AA-3821-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	AA	Indivumed	0.942	30.92	26.5
+TCGA-AA-3831	TCGA-AA-3831-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.276	1.61	3.5
+TCGA-AA-3833	TCGA-AA-3833-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.9553	27.18	19.13333333
+TCGA-AA-3837	TCGA-AA-3837-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	AA	Indivumed	0.2784	0.82	3.933333333
+TCGA-AA-3841	TCGA-AA-3841-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.2896	0.79	2.233333333
+TCGA-AA-3842	TCGA-AA-3842-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3246	0.68	2.933333333
+TCGA-AA-3844	TCGA-AA-3844-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3264	0.87	3.8
+TCGA-AA-3845	TCGA-AA-3845-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.9169	30.53	30.4
+TCGA-AA-3846	TCGA-AA-3846-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3293	0.67	3.333333333
+TCGA-AA-3848	TCGA-AA-3848-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.2571	0.66	4.433333333
+TCGA-AA-3850	TCGA-AA-3850-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3018	0.07	3.533333333
+TCGA-AA-3851	TCGA-AA-3851-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3204	0.43	2.966666667
+TCGA-AA-3852	TCGA-AA-3852-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	AA	Indivumed	0.2731	0.32	4.8
+TCGA-AA-3854	TCGA-AA-3854-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	AA	Indivumed	0.2733	0.89	4.666666667
+TCGA-AA-3855	TCGA-AA-3855-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3187	0.11	4.9
+TCGA-AA-3856	TCGA-AA-3856-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.2645	0.3	1.9
+TCGA-AA-3858	TCGA-AA-3858-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.2586	0.37	2.0
+TCGA-AA-3864	TCGA-AA-3864-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.8915	23.86	81.76666667
+TCGA-AA-3866	TCGA-AA-3866-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3267	0.43	3.4
+TCGA-AA-3867	TCGA-AA-3867-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3148	0.42	3.066666667
+TCGA-AA-3869	TCGA-AA-3869-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.4048	0.67	
+TCGA-AA-3870	TCGA-AA-3870-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3807	0.6	
+TCGA-AA-3872	TCGA-AA-3872-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3976	1.08	
+TCGA-AA-3875	TCGA-AA-3875-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.2689	0.14	3.9
+TCGA-AA-3877	TCGA-AA-3877-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	AA	Indivumed	0.8655	32.33	36.16666667
+TCGA-AA-3930	TCGA-AA-3930-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3672	0.43	
+TCGA-AA-3939	TCGA-AA-3939-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.36	1.02	
+TCGA-AA-3941	TCGA-AA-3941-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3682	1.05	
+TCGA-AA-3947	TCGA-AA-3947-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	AA	Indivumed	1.2515	40.0	76.8
+TCGA-AA-3949	TCGA-AA-3949-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	AA	Indivumed	0.751	24.11	39.0
+TCGA-AA-3950	TCGA-AA-3950-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	AA	Indivumed	0.75	25.38	4.233333333
+TCGA-AA-3952	TCGA-AA-3952-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3274	0.43	3.233333333
+TCGA-AA-3955	TCGA-AA-3955-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3279	0.16	4.466666667
+TCGA-AA-3956	TCGA-AA-3956-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3246	0.16	4.533333333
+TCGA-AA-3966	TCGA-AA-3966-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	AA	Indivumed	1.296	43.67	36.43333333
+TCGA-AA-3968	TCGA-AA-3968-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.331	0.22	4.533333333
+TCGA-AA-3971	TCGA-AA-3971-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3362	0.49	2.633333333
+TCGA-AA-3973	TCGA-AA-3973-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3291	0.47	2.833333333
+TCGA-AA-3975	TCGA-AA-3975-01	Colon Adenocarcinoma	Primary	AA	Indivumed	0.3404	0.21	4.9
+TCGA-AA-3976	TCGA-AA-3976-01	Colon Adenocarcinoma	Primary	AA	International Genomics Consortium	0.3308	0.3	2.8
+TCGA-AA-3977	TCGA-AA-3977-01	Colon Adenocarcinoma	Primary	AA	International Genomics Consortium	0.3545	0.37	115.3
+TCGA-AA-3979	TCGA-AA-3979-01	Colon Adenocarcinoma	Primary	AA	International Genomics Consortium	0.3186	1.51	4.333333333
+TCGA-AA-3980	TCGA-AA-3980-01	Colon Adenocarcinoma	Primary	AA	International Genomics Consortium	0.3103	0.38	3.2
+TCGA-AA-3982	TCGA-AA-3982-01	Colon Adenocarcinoma	Primary	AA	International Genomics Consortium	0.3356	0.06	4.2
+TCGA-AA-3984	TCGA-AA-3984-01	Colon Adenocarcinoma	Primary	AA	International Genomics Consortium	0.3334	0.14	171.4
+TCGA-AA-3986	TCGA-AA-3986-01	Colon Adenocarcinoma	Primary	AA	Cureline	0.3248	0.09	2.833333333
+TCGA-AA-3989	TCGA-AA-3989-01	Colon Adenocarcinoma	Primary	AA	Cureline	0.3311	0.19	3.866666667
+TCGA-AA-3994	TCGA-AA-3994-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	AA	St. Joseph's Medical Center-(MD)	0.2838	0.99	5.9
+TCGA-AA-A004	TCGA-AA-A004-01	Colon Adenocarcinoma	Primary	AA	St. Joseph's Medical Center-(MD)	0.2846	0.84	2.2
+TCGA-AA-A00A	TCGA-AA-A00A-01	Colon Adenocarcinoma	Primary	AA	UNC		7.51	
+TCGA-AA-A00D	TCGA-AA-A00D-01	Colon Adenocarcinoma	Primary	AA	UNC		0.0	
+TCGA-AA-A00E	TCGA-AA-A00E-01	Colon Adenocarcinoma	Primary	AA	UNC		14.23	
+TCGA-AA-A00F	TCGA-AA-A00F-01	Colon Adenocarcinoma	Primary	AA	UNC		0.07	
+TCGA-AA-A00J	TCGA-AA-A00J-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	AA	UNC		11.59	
+TCGA-AA-A00K	TCGA-AA-A00K-01	Colon Adenocarcinoma	Primary	AA	UNC		0.41	
+TCGA-AA-A00L	TCGA-AA-A00L-01	Colon Adenocarcinoma	Primary	AA	UNC		0.0	
+TCGA-AA-A00N	TCGA-AA-A00N-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	AA	UNC	0.3279	32.47	163.3
+TCGA-AA-A00O	TCGA-AA-A00O-01	Colon Adenocarcinoma	Primary	AA	UNC	0.2697	1.05	
+TCGA-AA-A00Q	TCGA-AA-A00Q-01	Colon Adenocarcinoma	Primary	AA	UNC		0.0	
+TCGA-AA-A00R	TCGA-AA-A00R-01	Colon Adenocarcinoma	Primary	AA	University of Pittsburgh		12.68	
+TCGA-AA-A00U	TCGA-AA-A00U-01	Colon Adenocarcinoma	Primary	AA	University of Pittsburgh		0.03	
+TCGA-AA-A00W	TCGA-AA-A00W-01	Colon Adenocarcinoma	Primary	AA	University of Pittsburgh		0.0	
+TCGA-AA-A00Z	TCGA-AA-A00Z-01	Colon Adenocarcinoma	Primary	AA	University of Pittsburgh	0.3206	0.0	0.466666667
+TCGA-AA-A010	TCGA-AA-A010-01	Colon Adenocarcinoma	Primary	AA	University of Pittsburgh	0.3765	4.19	250.7
+TCGA-AA-A017	TCGA-AA-A017-01	Colon Adenocarcinoma	Primary	AA	University of Pittsburgh	0.28	1.19	1.833333333
+TCGA-AA-A01C	TCGA-AA-A01C-01	Colon Adenocarcinoma	Primary	AA	University of Pittsburgh	0.2539	0.1	2.833333333
+TCGA-AA-A01D	TCGA-AA-A01D-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	AA	University of Pittsburgh	0.2695	0.71	
+TCGA-AA-A01F	TCGA-AA-A01F-01	Colon Adenocarcinoma	Primary	AA	University of Pittsburgh		0.03	
+TCGA-AA-A01G	TCGA-AA-A01G-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	AA	University of Pittsburgh		0.0	
+TCGA-AA-A01I	TCGA-AA-A01I-01	Colon Adenocarcinoma	Primary	AA	University of Pittsburgh	0.2695	0.87	3.433333333
+TCGA-AA-A01K	TCGA-AA-A01K-01	Colon Adenocarcinoma	Primary	AA	University of Pittsburgh	0.2795	1.3	
+TCGA-AA-A01P	TCGA-AA-A01P-01	Colon Adenocarcinoma	Primary	AA	University of Pittsburgh	0.6789	20.7	28.36666667
+TCGA-AA-A01Q	TCGA-AA-A01Q-01	Colon Adenocarcinoma	Primary	AA	University of Pittsburgh		5.43	
+TCGA-AA-A01R	TCGA-AA-A01R-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	AA	University of Pittsburgh	0.7418	22.57	54.26666667
+TCGA-AA-A01S	TCGA-AA-A01S-01	Colon Adenocarcinoma	Primary	AA	University of Pittsburgh	0.325	0.6	1.7
+TCGA-AA-A01T	TCGA-AA-A01T-01	Colon Adenocarcinoma	Primary	AA	University of Pittsburgh	0.3369	1.26	3.033333333
+TCGA-AA-A01V	TCGA-AA-A01V-01	Colon Adenocarcinoma	Primary	AA	University of Pittsburgh	0.3163	0.31	3.666666667
+TCGA-AA-A01X	TCGA-AA-A01X-01	Colon Adenocarcinoma	Primary	AA	University of Pittsburgh	0.3184	0.38	2.166666667
+TCGA-AA-A01Z	TCGA-AA-A01Z-01	Colon Adenocarcinoma	Primary	AA	ILSBio	0.3259	0.42	3.2
+TCGA-AA-A022	TCGA-AA-A022-01	Colon Adenocarcinoma	Primary	AA	ILSBio	1.1662	43.0	49.33333333
+TCGA-AA-A024	TCGA-AA-A024-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	AA	ILSBio	0.2567	0.75	2.666666667
+TCGA-AA-A029	TCGA-AA-A029-01	Colon Adenocarcinoma	Primary	AA	ILSBio	0.2837	2.01	
+TCGA-AA-A02E	TCGA-AA-A02E-01	Colon Adenocarcinoma	Primary	AA	ILSBio	0.2544	1.66	4.933333333
+TCGA-AA-A02F	TCGA-AA-A02F-01	Colon Adenocarcinoma	Primary	AA	ILSBio	0.2783	1.83	1.733333333
+TCGA-AA-A02H	TCGA-AA-A02H-01	Colon Adenocarcinoma	Primary	AA	ILSBio	0.2874	2.03	2.466666667
+TCGA-AA-A02J	TCGA-AA-A02J-01	Colon Adenocarcinoma	Primary	AA	ILSBio	0.2836	0.54	
+TCGA-AA-A02O	TCGA-AA-A02O-01	Colon Adenocarcinoma	Primary	AA	ILSBio	0.3293	0.48	5.333333333
+TCGA-AA-A02R	TCGA-AA-A02R-01	Colon Adenocarcinoma	Primary	AA	ILSBio	1.2923	32.62	36.36666667
+TCGA-AA-A02W	TCGA-AA-A02W-01	Colon Adenocarcinoma	Primary	AA	University of Pittsburgh	0.2652	0.77	3.066666667
+TCGA-AA-A02Y	TCGA-AA-A02Y-01	Colon Adenocarcinoma	Primary	AA	University of Pittsburgh	0.3389	0.38	3.633333333
+TCGA-AA-A03F	TCGA-AA-A03F-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	AA	University of Pittsburgh	0.3075	0.22	4.2
+TCGA-AA-A03J	TCGA-AA-A03J-01	Colon Adenocarcinoma	Primary	AA	University of Pittsburgh	0.3238	0.22	2.666666667
+TCGA-AD-5900	TCGA-AD-5900-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	AD	University of Pittsburgh	0.9101	36.46	49.26666667
+TCGA-AD-6548	TCGA-AD-6548-01	Colon Adenocarcinoma	Primary	AD	University of Pittsburgh	0.4334	0.02	4.033333333
+TCGA-AD-6888	TCGA-AD-6888-01	Colon Adenocarcinoma	Primary	AD	Harvard	0.3466	0.13	3.5
+TCGA-AD-6889	TCGA-AD-6889-01	Colon Adenocarcinoma	Primary	AD	Harvard	1.3414	40.44	57.4
+TCGA-AD-6890	TCGA-AD-6890-01	Colon Adenocarcinoma	Primary	AD	Harvard	0.3483	0.03	3.333333333
+TCGA-AD-6895	TCGA-AD-6895-01	Colon Adenocarcinoma	Primary	AD	Harvard	0.8416	23.11	51.56666667
+TCGA-AD-6899	TCGA-AD-6899-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	AD	Harvard	0.355	0.07	4.566666667
+TCGA-AD-6901	TCGA-AD-6901-01	Colon Adenocarcinoma	Primary	AD	Harvard	0.3533	0.18	7.466666667
+TCGA-AD-6963	TCGA-AD-6963-01	Colon Adenocarcinoma	Primary	AD	Harvard	0.3442	0.02	2.433333333
+TCGA-AD-6964	TCGA-AD-6964-01	Colon Adenocarcinoma	Primary	AD	Harvard	0.7365	18.65	47.3
+TCGA-AD-6965	TCGA-AD-6965-01	Colon Adenocarcinoma	Primary	AD	Harvard	0.3643	0.33	3.633333333
+TCGA-AD-A5EJ	TCGA-AD-A5EJ-01	Colon Adenocarcinoma	Primary	AD	Harvard	1.0934	22.4	48.2
+TCGA-AD-A5EK	TCGA-AD-A5EK-01	Colon Adenocarcinoma	Primary	AD	Harvard	0.2808	0.32	2.433333333
+TCGA-AM-5820	TCGA-AM-5820-01	Colon Adenocarcinoma	Primary	AM	Harvard	0.3465	1.64	2.366666667
+TCGA-AM-5821	TCGA-AM-5821-01	Colon Adenocarcinoma	Primary	AM	Harvard	0.8795	30.25	40.5
+TCGA-AU-3779	TCGA-AU-3779-01	Colon Adenocarcinoma	Primary	AU	Harvard	0.3365	0.29	3.133333333
+TCGA-AU-6004	TCGA-AU-6004-01	Colon Adenocarcinoma	Primary	AU	Harvard	0.8424	27.82	32.26666667
+TCGA-AY-4070	TCGA-AY-4070-01	Colon Adenocarcinoma	Primary	AY	Harvard	0.2687	0.78	5.033333333
+TCGA-AY-4071	TCGA-AY-4071-01	Colon Adenocarcinoma	Primary	AY	Harvard	0.2716	1.3	3.833333333
+TCGA-AY-5543	TCGA-AY-5543-01	Colon Adenocarcinoma	Primary	AY	MSKCC	0.3374	0.61	3.233333333
+TCGA-AY-6196	TCGA-AY-6196-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	AY	MSKCC	0.3602	0.23	7.133333333
+TCGA-AY-6197	TCGA-AY-6197-01	Colon Adenocarcinoma	Primary	AY	MSKCC	0.965	31.61	35.26666667
+TCGA-AY-6386	TCGA-AY-6386-01	Colon Adenocarcinoma	Primary	AY	MSKCC	0.327	0.27	3.333333333
+TCGA-AY-A54L	TCGA-AY-A54L-01	Colon Adenocarcinoma	Primary	AY	MSKCC	0.2932	0.39	4.733333333
+TCGA-AY-A69D	TCGA-AY-A69D-01	Colon Adenocarcinoma	Primary	AY	MSKCC	0.3161	0.21	6.233333333
+TCGA-AY-A71X	TCGA-AY-A71X-01	Colon Adenocarcinoma	Primary	AY	MSKCC	0.3062	0.22	3.0
+TCGA-AY-A8YK	TCGA-AY-A8YK-01	Colon Adenocarcinoma	Primary	AY	MSKCC	0.3268	0.32	2.033333333
+TCGA-AZ-4308	TCGA-AZ-4308-01	Colon Adenocarcinoma	Primary	AZ	MSKCC	0.363	0.11	2.466666667
+TCGA-AZ-4313	TCGA-AZ-4313-01	Colon Adenocarcinoma	Primary	AZ	MSKCC	0.7225		
+TCGA-AZ-4315	TCGA-AZ-4315-01	Colon Adenocarcinoma	Primary	AZ	MSKCC	0.3429	0.67	211.3666667
+TCGA-AZ-4323	TCGA-AZ-4323-01	Colon Adenocarcinoma	Primary	AZ	MSKCC	0.426	0.05	1.7
+TCGA-AZ-4614	TCGA-AZ-4614-01	Colon Adenocarcinoma	Primary	AZ	MSKCC	0.3773	0.94	6.0
+TCGA-AZ-4615	TCGA-AZ-4615-01	Colon Adenocarcinoma	Primary	AZ	MSKCC	1.0327	33.79	27.83333333
+TCGA-AZ-4616	TCGA-AZ-4616-01	Colon Adenocarcinoma	Primary	AZ	MSKCC	0.3171	0.79	3.033333333
+TCGA-AZ-4681	TCGA-AZ-4681-01	Colon Adenocarcinoma	Primary	AZ	MSKCC	0.3537	0.02	2.666666667
+TCGA-AZ-4682	TCGA-AZ-4682-01	Colon Adenocarcinoma	Primary	AZ	MSKCC	0.367	0.13	2.366666667
+TCGA-AZ-4684	TCGA-AZ-4684-01	Colon Adenocarcinoma	Primary	AZ	MSKCC	0.3572		0.0
+TCGA-AZ-5403	TCGA-AZ-5403-01	Colon Adenocarcinoma	Primary	AZ	MSKCC	0.3101	0.27	2.566666667
+TCGA-AZ-5407	TCGA-AZ-5407-01	Colon Adenocarcinoma	Primary	AZ	MSKCC	0.3611	0.46	3.0
+TCGA-AZ-6598	TCGA-AZ-6598-01	Colon Adenocarcinoma	Primary	AZ	MSKCC	1.3777	43.27	77.83333333
+TCGA-AZ-6599	TCGA-AZ-6599-01	Colon Adenocarcinoma	Primary	AZ	MSKCC	0.3766	0.14	7.733333333
+TCGA-AZ-6600	TCGA-AZ-6600-01	Colon Adenocarcinoma	Primary	AZ	MSKCC	0.3613	0.46	4.166666667
+TCGA-AZ-6603	TCGA-AZ-6603-01	Colon Adenocarcinoma	Primary	AZ	MSKCC	0.3686	0.35	2.566666667
+TCGA-AZ-6605	TCGA-AZ-6605-01	Colon Adenocarcinoma	Primary	AZ	MSKCC	0.3467	0.02	3.466666667
+TCGA-AZ-6606	TCGA-AZ-6606-01	Colon Adenocarcinoma	Primary	AZ	MSKCC	0.3623	0.2	4.333333333
+TCGA-AZ-6607	TCGA-AZ-6607-01	Colon Adenocarcinoma	Primary	AZ	MSKCC	0.354	0.0	2.266666667
+TCGA-CA-5254	TCGA-CA-5254-01	Colon Adenocarcinoma	Primary	CA	MSKCC	0.3896	0.53	6.033333333
+TCGA-CA-5255	TCGA-CA-5255-01	Colon Adenocarcinoma	Primary	CA	MSKCC	0.3805	0.07	1.733333333
+TCGA-CA-5256	TCGA-CA-5256-01	Colon Adenocarcinoma	Primary	CA	MSKCC	0.3522	0.07	2.433333333
+TCGA-CA-5796	TCGA-CA-5796-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	CA	MSKCC	0.3604	0.15	2.033333333
+TCGA-CA-5797	TCGA-CA-5797-01	Colon Adenocarcinoma	Primary	CA	MSKCC	0.3554	0.61	2.0
+TCGA-CA-6715	TCGA-CA-6715-01	Colon Adenocarcinoma	Primary	CA	MSKCC	0.3669	0.11	3.233333333
+TCGA-CA-6716	TCGA-CA-6716-01	Colon Adenocarcinoma	Primary	CA	MSKCC	0.3773	0.56	4.566666667
+TCGA-CA-6717	TCGA-CA-6717-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	CA	MSKCC	0.3653	0.01	320.7666667
+TCGA-CA-6718	TCGA-CA-6718-01	Colon Adenocarcinoma	Primary	CA	MSKCC	0.3722	0.0	107.0666667
+TCGA-CA-6719	TCGA-CA-6719-01	Colon Adenocarcinoma	Primary	CA	MSKCC	0.3645	0.24	3.833333333
+TCGA-CK-4947	TCGA-CK-4947-01	Colon Adenocarcinoma	Primary	CK	Greater Poland Cancer Center	0.3269	0.07	2.933333333
+TCGA-CK-4948	TCGA-CK-4948-01	Colon Adenocarcinoma	Primary	CK	Greater Poland Cancer Center	0.3486	0.22	3.3
+TCGA-CK-4950	TCGA-CK-4950-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	CK	Greater Poland Cancer Center	0.3697	0.31	5.1
+TCGA-CK-4951	TCGA-CK-4951-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	CK	Greater Poland Cancer Center	0.7849	21.62	140.4666667
+TCGA-CK-4952	TCGA-CK-4952-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	CK	Greater Poland Cancer Center	0.3926	0.29	4.766666667
+TCGA-CK-5912	TCGA-CK-5912-01	Colon Adenocarcinoma	Primary	CK	Greater Poland Cancer Center	0.3783	1.79	2.066666667
+TCGA-CK-5913	TCGA-CK-5913-01	Colon Adenocarcinoma	Primary	CK	Greater Poland Cancer Center	0.9213	32.98	27.03333333
+TCGA-CK-5914	TCGA-CK-5914-01	Colon Adenocarcinoma	Primary	CK	Greater Poland Cancer Center	0.3446	1.56	4.366666667
+TCGA-CK-5915	TCGA-CK-5915-01	Colon Adenocarcinoma	Primary	CK	Greater Poland Cancer Center	0.3162	0.29	2.733333333
+TCGA-CK-5916	TCGA-CK-5916-01	Colon Adenocarcinoma	Primary	CK	Greater Poland Cancer Center	0.9208	35.2	47.1
+TCGA-CK-6746	TCGA-CK-6746-01	Colon Adenocarcinoma	Primary	CK	Greater Poland Cancer Center	1.1685	36.05	40.13333333
+TCGA-CK-6747	TCGA-CK-6747-01	Colon Adenocarcinoma	Primary	CK	Greater Poland Cancer Center	0.3727	0.64	5.8
+TCGA-CK-6748	TCGA-CK-6748-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	CK	Greater Poland Cancer Center	0.3564	0.22	1.9
+TCGA-CK-6751	TCGA-CK-6751-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	CK	Greater Poland Cancer Center	0.3583	0.05	5.566666667
+TCGA-CM-4743	TCGA-CM-4743-01	Colon Adenocarcinoma	Primary	CM	Greater Poland Cancer Center	0.8182	23.82	36.86666667
+TCGA-CM-4744	TCGA-CM-4744-01	Colon Adenocarcinoma	Primary	CM	Greater Poland Cancer Center	0.3613	0.03	4.7
+TCGA-CM-4746	TCGA-CM-4746-01	Colon Adenocarcinoma	Primary	CM	Greater Poland Cancer Center	0.8512	21.49	24.13333333
+TCGA-CM-4747	TCGA-CM-4747-01	Colon Adenocarcinoma	Primary	CM	Greater Poland Cancer Center	0.3787	0.01	2.766666667
+TCGA-CM-4748	TCGA-CM-4748-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	CM	Greater Poland Cancer Center	0.365	0.04	2.233333333
+TCGA-CM-4750	TCGA-CM-4750-01	Colon Adenocarcinoma	Primary	CM	Greater Poland Cancer Center	0.3583	0.18	2.766666667
+TCGA-CM-4751	TCGA-CM-4751-01	Colon Adenocarcinoma	Primary	CM	Greater Poland Cancer Center	0.3606	0.0	3.033333333
+TCGA-CM-4752	TCGA-CM-4752-01	Colon Adenocarcinoma	Primary	CM	Greater Poland Cancer Center	0.3498	0.02	4.033333333
+TCGA-CM-5341	TCGA-CM-5341-01	Colon Adenocarcinoma	Primary	CM	Greater Poland Cancer Center	0.3524	0.0	4.866666667
+TCGA-CM-5344	TCGA-CM-5344-01	Colon Adenocarcinoma	Primary	CM	Greater Poland Cancer Center	0.3396	0.47	1.966666667
+TCGA-CM-5348	TCGA-CM-5348-01	Colon Adenocarcinoma	Primary	CM	Greater Poland Cancer Center	0.3321	0.56	5.633333333
+TCGA-CM-5349	TCGA-CM-5349-01	Colon Adenocarcinoma	Primary	CM	Greater Poland Cancer Center	0.3249	0.0	3.133333333
+TCGA-CM-5860	TCGA-CM-5860-01	Colon Adenocarcinoma	Primary	CM	Greater Poland Cancer Center	0.3393	0.54	3.5
+TCGA-CM-5861	TCGA-CM-5861-01	Colon Adenocarcinoma	Primary	CM	Greater Poland Cancer Center	0.9692	34.37	45.76666667
+TCGA-CM-5862	TCGA-CM-5862-01	Colon Adenocarcinoma	Primary	CM	Greater Poland Cancer Center	0.3545	1.45	2.866666667
+TCGA-CM-5863	TCGA-CM-5863-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	CM	Greater Poland Cancer Center	0.3973	0.0	2.033333333
+TCGA-CM-5864	TCGA-CM-5864-01	Colon Adenocarcinoma	Primary	CM	Greater Poland Cancer Center	0.3329	0.53	5.733333333
+TCGA-CM-5868	TCGA-CM-5868-01	Colon Adenocarcinoma	Primary	CM	MSKCC	0.3403	0.89	2.7
+TCGA-CM-6161	TCGA-CM-6161-01	Colon Adenocarcinoma	Primary	CM	MSKCC	0.3145	0.25	2.633333333
+TCGA-CM-6162	TCGA-CM-6162-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	CM	MSKCC	0.8773	29.11	33.63333333
+TCGA-CM-6163	TCGA-CM-6163-01	Colon Adenocarcinoma	Primary	CM	MSKCC	0.3345	0.07	3.166666667
+TCGA-CM-6164	TCGA-CM-6164-01	Colon Adenocarcinoma	Primary	CM	MSKCC	0.3277	0.05	2.266666667
+TCGA-CM-6165	TCGA-CM-6165-01	Colon Adenocarcinoma	Primary	CM	MSKCC	0.3145	0.1	3.5
+TCGA-CM-6166	TCGA-CM-6166-01	Colon Adenocarcinoma	Primary	CM	MSKCC	0.3171	0.33	2.666666667
+TCGA-CM-6167	TCGA-CM-6167-01	Colon Adenocarcinoma	Primary	CM	MSKCC	0.3157	0.06	2.7
+TCGA-CM-6168	TCGA-CM-6168-01	Colon Adenocarcinoma	Primary	CM	MSKCC	0.4083	1.02	6.866666667
+TCGA-CM-6169	TCGA-CM-6169-01	Colon Adenocarcinoma	Primary	CM	MSKCC	0.3404	0.78	3.366666667
+TCGA-CM-6170	TCGA-CM-6170-01	Colon Adenocarcinoma	Primary	CM	MSKCC	0.3219	0.21	2.8
+TCGA-CM-6171	TCGA-CM-6171-01	Colon Adenocarcinoma	Primary	CM	MSKCC	1.1813	43.0	38.53333333
+TCGA-CM-6172	TCGA-CM-6172-01	Colon Adenocarcinoma	Primary	CM	MSKCC	0.3388	0.16	2.8
+TCGA-CM-6674	TCGA-CM-6674-01	Colon Adenocarcinoma	Primary	CM	University Of Michigan	0.7398	21.08	28.13333333
+TCGA-CM-6675	TCGA-CM-6675-01	Colon Adenocarcinoma	Primary	CM	University Of Michigan	0.357	0.38	2.733333333
+TCGA-CM-6676	TCGA-CM-6676-01	Colon Adenocarcinoma	Primary	CM	University Of Michigan	0.353	0.05	3.266666667
+TCGA-CM-6677	TCGA-CM-6677-01	Colon Adenocarcinoma	Primary	CM	University Of Michigan	0.3529	0.48	4.533333333
+TCGA-CM-6678	TCGA-CM-6678-01	Colon Adenocarcinoma	Primary	CM	University Of Michigan	0.349	0.13	4.133333333
+TCGA-CM-6679	TCGA-CM-6679-01	Colon Adenocarcinoma	Primary	CM	University Of Michigan	0.3381	0.16	2.366666667
+TCGA-CM-6680	TCGA-CM-6680-01	Colon Adenocarcinoma	Primary	CM	University Of Michigan	0.4575	1.17	2.8
+TCGA-D5-5537	TCGA-D5-5537-01	Colon Adenocarcinoma	Primary	D5	University Of Michigan	0.3494	0.42	3.166666667
+TCGA-D5-5538	TCGA-D5-5538-01	Colon Adenocarcinoma	Primary	D5	University Of Michigan	0.3546	0.4	3.5
+TCGA-D5-5539	TCGA-D5-5539-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	D5	University Of Michigan	0.3573	0.38	3.066666667
+TCGA-D5-5540	TCGA-D5-5540-01	Colon Adenocarcinoma	Primary	D5	University Of Michigan	0.3281	0.88	3.7
+TCGA-D5-5541	TCGA-D5-5541-01	Colon Adenocarcinoma	Primary	D5	University Of Michigan	0.328	0.51	2.0
+TCGA-D5-6529	TCGA-D5-6529-01	Colon Adenocarcinoma	Primary	D5	University Of Michigan	0.3658	0.18	3.233333333
+TCGA-D5-6530	TCGA-D5-6530-01	Colon Adenocarcinoma	Primary	D5	University Of Michigan	1.0856	41.17	35.16666667
+TCGA-D5-6531	TCGA-D5-6531-01	Colon Adenocarcinoma	Primary	D5	University Of Michigan	0.347	0.81	5.7
+TCGA-D5-6532	TCGA-D5-6532-01	Colon Adenocarcinoma	Primary	D5	University Of Michigan	0.3466	0.62	3.133333333
+TCGA-D5-6533	TCGA-D5-6533-01	Colon Adenocarcinoma	Primary	D5	University Of Michigan	0.3337	0.52	4.866666667
+TCGA-D5-6534	TCGA-D5-6534-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	D5	University Of Michigan	0.3343	0.04	5.066666667
+TCGA-D5-6535	TCGA-D5-6535-01	Colon Adenocarcinoma	Primary	D5	University Of Michigan	0.343	0.28	5.233333333
+TCGA-D5-6536	TCGA-D5-6536-01	Colon Adenocarcinoma	Primary	D5	University Of Michigan	0.3522	0.23	3.566666667
+TCGA-D5-6537	TCGA-D5-6537-01	Colon Adenocarcinoma	Primary	D5	University Of Michigan	0.3503	0.37	3.4
+TCGA-D5-6538	TCGA-D5-6538-01	Colon Adenocarcinoma	Primary	D5	University Of Michigan	0.3432	0.75	3.9
+TCGA-D5-6539	TCGA-D5-6539-01	Colon Adenocarcinoma	Primary	D5	University Of Michigan	0.3265	0.0	3.166666667
+TCGA-D5-6540	TCGA-D5-6540-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	D5	University Of Michigan	0.9984	32.59	40.03333333
+TCGA-D5-6541	TCGA-D5-6541-01	Colon Adenocarcinoma	Primary	D5	University Of Michigan	0.3319	0.11	2.8
+TCGA-D5-6898	TCGA-D5-6898-01	Colon Adenocarcinoma	Primary	D5	ILSBio	0.3407	0.17	2.366666667
+TCGA-D5-6920	TCGA-D5-6920-01	Colon Adenocarcinoma	Primary	D5	University Of Michigan	0.3434	0.01	3.566666667
+TCGA-D5-6922	TCGA-D5-6922-01	Colon Adenocarcinoma	Primary	D5	University Of Michigan	0.3579	0.07	3.233333333
+TCGA-D5-6923	TCGA-D5-6923-01	Colon Adenocarcinoma	Primary	D5	University Of Michigan	0.3476	0.2	0.0
+TCGA-D5-6924	TCGA-D5-6924-01	Colon Adenocarcinoma	Primary	D5	University Of Michigan	0.3409	0.06	4.9
+TCGA-D5-6926	TCGA-D5-6926-01	Colon Adenocarcinoma	Primary	D5	University Of Michigan	0.3496	0.18	3.366666667
+TCGA-D5-6927	TCGA-D5-6927-01	Colon Adenocarcinoma	Primary	D5	University Of Michigan	0.7283	17.61	22.16666667
+TCGA-D5-6928	TCGA-D5-6928-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	D5	University Of Michigan	0.6559	14.76	53.83333333
+TCGA-D5-6929	TCGA-D5-6929-01	Colon Adenocarcinoma	Primary	D5	Cureline	0.3524	0.09	3.6
+TCGA-D5-6930	TCGA-D5-6930-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	D5	Cureline	0.6864	15.2	40.63333333
+TCGA-D5-6931	TCGA-D5-6931-01	Colon Adenocarcinoma	Primary	D5	Greater Poland Cancer Center	0.3574	0.12	9.366666667
+TCGA-D5-6932	TCGA-D5-6932-01	Colon Adenocarcinoma	Primary	D5	Greater Poland Cancer Center	0.3444	0.19	4.1
+TCGA-D5-7000	TCGA-D5-7000-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	D5	Greater Poland Cancer Center	0.3496	0.06	3.4
+TCGA-DM-A0X9	TCGA-DM-A0X9-01	Colon Adenocarcinoma	Primary	DM	Greater Poland Cancer Center	0.3503	0.2	5.666666667
+TCGA-DM-A0XD	TCGA-DM-A0XD-01	Colon Adenocarcinoma	Primary	DM	Greater Poland Cancer Center	0.3301	0.15	5.133333333
+TCGA-DM-A0XF	TCGA-DM-A0XF-01	Colon Adenocarcinoma	Primary	DM	Greater Poland Cancer Center	0.3334	0.1	3.7
+TCGA-DM-A1D0	TCGA-DM-A1D0-01	Colon Adenocarcinoma	Primary	DM	Greater Poland Cancer Center	0.3358	0.67	3.233333333
+TCGA-DM-A1D4	TCGA-DM-A1D4-01	Colon Adenocarcinoma	Primary	DM	Greater Poland Cancer Center	0.3544	0.35	5.466666667
+TCGA-DM-A1D6	TCGA-DM-A1D6-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	DM	Greater Poland Cancer Center	0.3534	0.53	3.133333333
+TCGA-DM-A1D7	TCGA-DM-A1D7-01	Colon Adenocarcinoma	Primary	DM	Greater Poland Cancer Center	0.3316	0.01	4.2
+TCGA-DM-A1D8	TCGA-DM-A1D8-01	Colon Adenocarcinoma	Primary	DM	Greater Poland Cancer Center	0.3468	0.47	4.8
+TCGA-DM-A1D9	TCGA-DM-A1D9-01	Colon Adenocarcinoma	Primary	DM	Greater Poland Cancer Center	0.335	0.33	4.0
+TCGA-DM-A1DA	TCGA-DM-A1DA-01	Colon Adenocarcinoma	Primary	DM	Greater Poland Cancer Center	0.3952	2.42	8.466666667
+TCGA-DM-A1DB	TCGA-DM-A1DB-01	Colon Adenocarcinoma	Primary	DM	Greater Poland Cancer Center	0.3441	0.25	2.2
+TCGA-DM-A1HA	TCGA-DM-A1HA-01	Colon Adenocarcinoma	Primary	DM	Greater Poland Cancer Center	0.3507	1.46	4.5
+TCGA-DM-A1HB	TCGA-DM-A1HB-01	Colon Adenocarcinoma	Primary	DM	Greater Poland Cancer Center	1.0166	27.61	37.1
+TCGA-DM-A280	TCGA-DM-A280-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	DM	Greater Poland Cancer Center	0.3888	0.01	4.1
+TCGA-DM-A282	TCGA-DM-A282-01	Colon Adenocarcinoma	Primary	DM	Asterand	0.3739	0.03	3.166666667
+TCGA-DM-A285	TCGA-DM-A285-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	DM	Asterand	0.3761	0.13	5.766666667
+TCGA-DM-A288	TCGA-DM-A288-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	DM	Asterand	0.3948	0.31	2.466666667
+TCGA-DM-A28A	TCGA-DM-A28A-01	Colon Adenocarcinoma	Primary	DM	Asterand	0.3995	0.25	4.3
+TCGA-DM-A28C	TCGA-DM-A28C-01	Colon Adenocarcinoma	Primary	DM	Asterand	0.3712	0.08	3.333333333
+TCGA-DM-A28E	TCGA-DM-A28E-01	Colon Adenocarcinoma	Primary	DM	Asterand	0.379	0.04	2.9
+TCGA-DM-A28F	TCGA-DM-A28F-01	Colon Adenocarcinoma	Primary	DM	Asterand	0.3791	0.24	7.633333333
+TCGA-DM-A28G	TCGA-DM-A28G-01	Colon Adenocarcinoma	Primary	DM	Asterand	0.3656	0.01	3.666666667
+TCGA-DM-A28H	TCGA-DM-A28H-01	Colon Adenocarcinoma	Primary	DM	Asterand	0.3898	0.15	4.166666667
+TCGA-DM-A28K	TCGA-DM-A28K-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	DM	Asterand	0.397	0.05	3.4
+TCGA-DM-A28M	TCGA-DM-A28M-01	Colon Adenocarcinoma	Primary	DM	Asterand	0.3983	0.13	3.3
+TCGA-F4-6459	TCGA-F4-6459-01	Colon Adenocarcinoma	Primary	F4	Asterand	0.3642	0.31	4.233333333
+TCGA-F4-6460	TCGA-F4-6460-01	Colon Adenocarcinoma	Primary	F4	Asterand	0.3437	0.24	4.3
+TCGA-F4-6461	TCGA-F4-6461-01	Colon Adenocarcinoma	Primary	F4	Asterand	0.3699	0.23	4.6
+TCGA-F4-6463	TCGA-F4-6463-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	F4	Asterand	0.3302	0.14	2.333333333
+TCGA-F4-6569	TCGA-F4-6569-01	Colon Adenocarcinoma	Primary	F4	Asterand	0.3647	0.06	3.966666667
+TCGA-F4-6570	TCGA-F4-6570-01	Colon Adenocarcinoma	Primary	F4	Asterand	0.9787	31.81	55.03333333
+TCGA-F4-6703	TCGA-F4-6703-01	Colon Adenocarcinoma	Primary	F4	Asterand	0.4396	1.0	17.83333333
+TCGA-F4-6704	TCGA-F4-6704-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	F4	Asterand	0.3596	0.06	2.6
+TCGA-F4-6805	TCGA-F4-6805-01	Colon Adenocarcinoma	Primary	F4	Asterand	0.3882	0.03	2.266666667
+TCGA-F4-6806	TCGA-F4-6806-01	Colon Adenocarcinoma	Primary	F4	Asterand	0.3957	0.1	3.433333333
+TCGA-F4-6807	TCGA-F4-6807-01	Colon Adenocarcinoma	Primary	F4	Asterand	0.3514	0.0	5.166666667
+TCGA-F4-6808	TCGA-F4-6808-01	Colon Adenocarcinoma	Primary	F4	Asterand	0.3566	0.12	4.1
+TCGA-F4-6809	TCGA-F4-6809-01	Colon Adenocarcinoma	Primary	F4	Asterand	0.3476	0.02	5.033333333
+TCGA-F4-6854	TCGA-F4-6854-01	Colon Adenocarcinoma	Primary	F4	Asterand	0.3387	0.1	3.8
+TCGA-F4-6855	TCGA-F4-6855-01	Colon Adenocarcinoma	Primary	F4	Asterand	0.3419	0.03	3.3
+TCGA-F4-6856	TCGA-F4-6856-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	F4	Asterand	0.8729	27.56	32.46666667
+TCGA-G4-6293	TCGA-G4-6293-01	Colon Adenocarcinoma	Primary	G4	Asterand	0.3277	0.28	3.5
+TCGA-G4-6294	TCGA-G4-6294-01	Colon Adenocarcinoma	Primary	G4	Roswell Park	0.3774	1.01	5.033333333
+TCGA-G4-6295	TCGA-G4-6295-01	Colon Adenocarcinoma	Primary	G4	Roswell Park	0.3241	0.24	6.466666667
+TCGA-G4-6297	TCGA-G4-6297-01	Colon Adenocarcinoma	Primary	G4	Roswell Park	0.3325	0.14	5.4
+TCGA-G4-6298	TCGA-G4-6298-01	Colon Adenocarcinoma	Primary	G4	Roswell Park	0.3334	0.31	5.266666667
+TCGA-G4-6299	TCGA-G4-6299-01	Colon Adenocarcinoma	Primary	G4	Roswell Park	0.3963	0.88	5.333333333
+TCGA-G4-6302	TCGA-G4-6302-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	G4	Roswell Park	0.4592	3.04	59.73333333
+TCGA-G4-6303	TCGA-G4-6303-01	Colon Adenocarcinoma	Primary	G4	Roswell Park	0.359	0.5	2.833333333
+TCGA-G4-6304	TCGA-G4-6304-01	Colon Adenocarcinoma	Primary	G4	Roswell Park	0.5676	7.18	31.0
+TCGA-G4-6306	TCGA-G4-6306-01	Colon Adenocarcinoma	Primary	G4	Roswell Park	0.3415	0.25	3.6
+TCGA-G4-6307	TCGA-G4-6307-01	Colon Adenocarcinoma	Primary	G4	Roswell Park	0.316	0.41	2.433333333
+TCGA-G4-6309	TCGA-G4-6309-01	Colon Adenocarcinoma	Primary	G4	Roswell Park	0.9341	26.62	27.2
+TCGA-G4-6311	TCGA-G4-6311-01	Colon Adenocarcinoma	Primary	G4	Roswell Park	0.3185	0.19	8.066666667
+TCGA-G4-6315	TCGA-G4-6315-01	Colon Adenocarcinoma	Primary	G4	Roswell Park	0.3321	0.25	4.433333333
+TCGA-G4-6317	TCGA-G4-6317-01	Colon Adenocarcinoma	Primary	G4	Roswell Park	0.3455	0.89	2.9
+TCGA-G4-6320	TCGA-G4-6320-01	Colon Adenocarcinoma	Primary	G4	Roswell Park	0.5674	14.97	65.7
+TCGA-G4-6321	TCGA-G4-6321-01	Colon Adenocarcinoma	Primary	G4	Roswell Park	0.3258	0.18	2.433333333
+TCGA-G4-6322	TCGA-G4-6322-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	G4	Roswell Park	0.3214	0.14	5.466666667
+TCGA-G4-6323	TCGA-G4-6323-01	Colon Adenocarcinoma	Primary	G4	Roswell Park	0.3512	0.42	3.033333333
+TCGA-G4-6586	TCGA-G4-6586-01	Colon Adenocarcinoma	Primary	G4	Roswell Park	1.0607	33.57	37.03333333
+TCGA-G4-6588	TCGA-G4-6588-01	Colon Adenocarcinoma	Primary	G4	Roswell Park	1.0066	34.69	65.56666667
+TCGA-G4-6626	TCGA-G4-6626-01	Colon Adenocarcinoma	Primary	G4	Roswell Park	0.349	0.39	3.966666667
+TCGA-G4-6627	TCGA-G4-6627-01	Colon Adenocarcinoma	Primary	G4	Roswell Park	0.3582	0.02	3.233333333
+TCGA-G4-6628	TCGA-G4-6628-01	Colon Adenocarcinoma	Primary	G4	Roswell Park	0.7863	19.28	62.86666667
+TCGA-NH-A50T	TCGA-NH-A50T-01	Colon Adenocarcinoma	Primary	NH	Roswell Park	0.2912	0.31	4.033333333
+TCGA-NH-A50U	TCGA-NH-A50U-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	NH	Roswell Park	0.3425	0.5	2.9
+TCGA-NH-A50V	TCGA-NH-A50V-01	Colon Adenocarcinoma	Primary	NH	Candler	0.2879	0.32	4.866666667
+TCGA-NH-A5IV	TCGA-NH-A5IV-01	Colon Adenocarcinoma	Primary	NH	Candler	1.2012	41.02	79.83333333
+TCGA-NH-A6GA	TCGA-NH-A6GA-01	Colon Adenocarcinoma	Primary	NH	Candler	0.3295	1.07	2.833333333
+TCGA-NH-A6GB	TCGA-NH-A6GB-01	Colon Adenocarcinoma	Primary	NH	Candler	0.3185	0.31	5.0
+TCGA-NH-A6GC	TCGA-NH-A6GC-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	NH	Candler	0.3241	0.73	3.8
+TCGA-NH-A8F7	TCGA-NH-A8F7-01	Colon Adenocarcinoma	Primary	NH	Candler	0.3241	0.36	3.966666667
+TCGA-NH-A8F8	TCGA-NH-A8F8-01	Colon Adenocarcinoma	Primary	NH	Candler	0.3144	0.23	3.5
+TCGA-QG-A5YV	TCGA-QG-A5YV-01	Colon Adenocarcinoma	Primary	QG	Candler	0.2586	0.0	5.466666667
+TCGA-QG-A5YW	TCGA-QG-A5YW-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	QG	Candler	0.2723	0.47	4.933333333
+TCGA-QG-A5YX	TCGA-QG-A5YX-01	Colon Adenocarcinoma	Primary	QG	BLN - Baylor	0.304	0.18	2.733333333
+TCGA-QG-A5Z1	TCGA-QG-A5Z1-01	Colon Adenocarcinoma	Primary	QG	BLN - Baylor	0.2924	0.03	3.166666667
+TCGA-QG-A5Z2	TCGA-QG-A5Z2-01	Colon Adenocarcinoma	Primary	QG	BLN - Baylor	0.86	19.29	34.46666667
+TCGA-QL-A97D	TCGA-QL-A97D-01	Colon Adenocarcinoma	Primary	QL	BLN - Baylor	0.3204	0.56	7.1
+TCGA-RU-A8FL	TCGA-RU-A8FL-01	Colon Adenocarcinoma	Primary	RU	BLN - Baylor	0.3417	0.47	4.2
+TCGA-SS-A7HO	TCGA-SS-A7HO-01	Colon Adenocarcinoma	Primary	SS	University of Chicago	0.3318	1.19	4.833333333
+TCGA-T9-A92H	TCGA-T9-A92H-01	Colon Adenocarcinoma	Primary	T9	Northwestern University	0.317	0.4	5.333333333
+TCGA-WS-AB45	TCGA-WS-AB45-01	Mucinous Adenocarcinoma of the Colon and Rectum	Primary	WS	Medical College of Georgia	0.6782	24.48	84.33333333
+TCGA-5M-AAT5	TCGA-5M-AAT5-01	Colon Adenocarcinoma	Primary	5M	Molecular Response	0.3131	0.35	2.633333333
+TCGA-5M-AATA	TCGA-5M-AATA-01	Colon Adenocarcinoma	Primary	5M	University of Kansas	0.3123	0.08	2.366666667
